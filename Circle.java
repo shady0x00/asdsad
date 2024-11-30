@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  *
- * @author yaseen
+ * @author yase
  */
 public class Circle extends Ellips{
 
